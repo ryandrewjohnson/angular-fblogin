@@ -1,0 +1,39 @@
+{
+  "name": "angular-fblogin",
+  "version": "1.0.0",
+  "description": "Empower your users to easily login via Facebook with this simple angular module",
+  "keywords": [],
+  "homepage":"https://github.com/ryandrewjohnson/angular-fblogin",
+  "author": {
+    "name": "Ryan Johnson",
+    "email": "ryan@shakainteractive.com",
+    "url": "http://shakainteractive.com"
+  },
+  "keywords": [
+    "angularjs",
+    "facebook",
+    "module",
+    "login",
+    "fblogin"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ryandrewjohnson/angular-fblogin.git"
+  },
+  "bugs": "https://github.com/ryandrewjohnson/angular-fblogin/issues",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt qunit"
+  },
+  "devDependencies": {
+    "grunt-contrib-qunit": "~0.2.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt": "~0.4.5"
+  },
+  "readmeFilename": "README.md"
+}

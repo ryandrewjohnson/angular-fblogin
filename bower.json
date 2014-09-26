@@ -1,0 +1,34 @@
+{
+  "name": "angular-fblogin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ryandrewjohnson/angular-fblogin",
+  "authors": [
+    "ryanjohnson <ryan@shakainteractive.com>"
+  ],
+  "description": "Empower your users to easily login via Facebook with this simple angular module",
+  "main": "dist/angular-fblogin.js",
+  "dependencies": {
+    "angular": "~1.2.25"
+  },
+  "keywords": [
+    "angularjs",
+    "facebook",
+    "module",
+    "login",
+    "fblogin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "demo",
+    "src",
+    "README.md",
+    "package.json",
+    "GruntFile.js",
+    "bower.json"
+  ]
+}
