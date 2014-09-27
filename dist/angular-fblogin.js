@@ -1,5 +1,5 @@
 /**
- * angular-fblogin - v1.0.0 (2014-09-25)
+ * angular-fblogin - v1.0.0 (2014-09-26)
  * https://github.com/ryandrewjohnson/angular-fblogin
  * Copyright (c) 2014 Ryan Johnson; Licensed MIT 
  */

@@ -5,10 +5,10 @@
   "authors": [
     "ryanjohnson <ryan@shakainteractive.com>"
   ],
-  "description": "Empower your users to easily login via Facebook with this simple angular module",
+  "description": "Empower your users to easily login via Facebook with this simple angularJS module",
   "main": "dist/angular-fblogin.js",
   "dependencies": {
-    "angular": "~1.2.25"
+    "angular": ">=1.2"
   },
   "keywords": [
     "angularjs",

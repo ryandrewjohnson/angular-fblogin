@@ -1,7 +1,7 @@
 {
   "name": "angular-fblogin",
   "version": "1.0.0",
-  "description": "Empower your users to easily login via Facebook with this simple angular module",
+  "description": "Empower your users to easily login via Facebook with this simple angularJS module",
   "keywords": [],
   "homepage":"https://github.com/ryandrewjohnson/angular-fblogin",
   "author": {
@@ -25,11 +25,7 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "scripts": {
-    "test": "grunt qunit"
-  },
   "devDependencies": {
-    "grunt-contrib-qunit": "~0.2.0",
     "grunt-contrib-concat": "~0.3.0",
     "grunt-contrib-uglify": "~0.2.0",
     "grunt-contrib-clean": "~0.4.0",

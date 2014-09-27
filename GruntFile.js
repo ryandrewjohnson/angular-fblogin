@@ -29,10 +29,7 @@ module.exports = function(grunt) {
                 src: '<%= concat.dist.dest %>',
                 dest: 'dist/<%= pkg.name %>.min.js'
             },
-        },
-        qunit: {
-            files: ['test/**/*.html']
-        },
+        }
     });
 
     grunt.loadNpmTasks('grunt-contrib-clean');
@@ -41,5 +38,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks('grunt-contrib-qunit');
     
     // Default task.
-    grunt.registerTask('default', ['qunit', 'clean', 'concat', 'uglify']);
+    grunt.registerTask('default', ['clean', 'concat', 'uglify']);
 };
