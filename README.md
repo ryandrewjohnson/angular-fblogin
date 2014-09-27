@@ -15,6 +15,12 @@ With this module this can all be accomplished with a single call.
 
 ## Installation
 
+### Install with Bower
+
+```
+bower install jquery.fblogin
+```
+
 Include fblogin after the angularJS library.
 
 ```html
