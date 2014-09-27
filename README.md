@@ -15,7 +15,7 @@ With this module this can all be accomplished with a single call.
 
 ## Installation
 
-### Install with Bower
+#### Install with Bower
 
 ```
 bower install jquery.fblogin
@@ -28,7 +28,7 @@ Include fblogin after the angularJS library.
 <script src="/path/to/angular-fblogin.js"></script>
 ```
 
-### Example Usage:
+#### Example Usage:
 
 ```javascript
 var myApp = angular.module('myApp', ['angularFblogin']);
